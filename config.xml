@@ -1,0 +1,11 @@
+<?xml version = '1.0' encoding="UTF-8"?>
+<widget
+android.versionCode='1'
+id='com.CodePicker.NamePrinter'
+version = '1.0.0'
+xmlns = 'https://www.23.org/ms/widgets'>
+  <name>NewPrinter</name>
+  <description>Print your name by submitting the form</description>
+  <author>Mycode</author>
+  <preference name='orientation' value='portrait'/>
+  </widget>
